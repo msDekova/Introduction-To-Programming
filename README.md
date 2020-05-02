@@ -1,2 +1,2 @@
 # Introduction-To-Programming
-Introduction to programming with c++. FMI tasks and solutions.
+FMI tasks and solutions.
